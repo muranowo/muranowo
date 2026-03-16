@@ -1,5 +1,4 @@
 name: GitHub Snake Game
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,6 +6,9 @@ on:
   push:
     branches:
       - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   generate:
@@ -19,7 +21,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '24'
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3

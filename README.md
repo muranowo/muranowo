@@ -12,9 +12,7 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
-  <!-- Overall GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=muranowo&show_icons=true&theme=dracula" height="150"/>
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muranowo&layout=compact&theme=dracula" height="150"/>
 </div>
 
@@ -44,24 +42,15 @@
 </div>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake.svg" width="500">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake.svg" width="700">
 </picture>
-
-<!-- ===================== CAT GIF ===================== -->
-<p align="center">
-  <img alt="cat gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
 </p>
 
-<!-- ===================== NOTES ===================== -->
-<!-- 
-To edit:
-1. Change bio text in the <p> under BIO.
-2. Update GitHub username for stats in the <img> URLs.
-3. Add/remove tech icons in SKILLS section.
-4. Update snake GIF link if workflow output changes.
-5. Replace cat GIF with your own if desired.
-6. Change header wave color by editing fill="#ff5f6d".
--->
+<!-- ===================== GIF ===================== -->
+<p align="center">
+  <img src="https://i.giphy.com/In0Lpu4FVivjISX9HT.webp" width="350">
+</p>

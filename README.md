@@ -44,9 +44,11 @@
 </div>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
-<p align="center">
-  <img alt="animated snake" src="https://raw.githubusercontent.com/muranowo/muranowo/workflows/github-snake.gif" width="500"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muranowo/muranowo/output/github-contribution-grid-snake.svg" width="500">
+</picture>
 
 <!-- ===================== CAT GIF ===================== -->
 <p align="center">

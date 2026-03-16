@@ -44,8 +44,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 
 </div>
 
@@ -58,3 +56,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/muranowo/muranowo/output/github-snake.svg" />
 </picture>
+
+---
+
+## 🐱 Cat GIF
+
+<p align="center">
+  <!-- Replace this src with your GIF file URL or local path later -->
+  <img alt="cat gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+</p>

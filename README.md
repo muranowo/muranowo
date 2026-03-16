@@ -7,20 +7,12 @@
 
 <!-- ===================== BIO ===================== -->
 <p align="center">
-  <em>A passionate web developer from Nepal , blending creativity and code to craft dynamic digital experiences.</em>
+  <em>A passionate designer from Nepal , blending creativity and code to craft dynamic digital experiences.</em>
 </p>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muranowo&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muranowo&layout=compact&theme=dracula" height="150"/>
-</div>
 
 <!-- ===================== SKILLS / TECH ICONS ===================== -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="15"/>
@@ -32,11 +24,7 @@
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
@@ -52,5 +40,5 @@
 
 <!-- ===================== GIF ===================== -->
 <p align="center">
-  <img src="https://i.giphy.com/In0Lpu4FVivjISX9HT.webp" width="350">
+  <img src="https://i.giphy.com/In0Lpu4FVivjISX9HT.webp" width="150">
 </p>

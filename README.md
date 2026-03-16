@@ -4,8 +4,6 @@
   </svg>
 </div>
 
-<h1 align="center">🌟 Hi, I'm Nikhil Maharjan! 🌟</h1>
-
 <p align="center">
   <em>A passionate web developer from Nepal 🚀, blending creativity and code to craft dynamic digital experiences.</em>
 </p>
@@ -15,53 +13,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muranowo&layout=compact&theme=dracula" height="150"/>
 </div>
 
----
-
 <div align="center">
-
-### 🛠️ Tech Stack
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muranowo/muranowo/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/muranowo/muranowo/output/github-snake.svg" />
-</picture>
-
----
-
-## 🐱 Cat GIF
-
+<!-- Snake animation -->
 <p align="center">
-  <!-- Replace this src with your GIF file URL or local path later -->
-  <img alt="cat gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/muranowo/<REPO>/workflows/github-snake.svg" />
+</p>
+<p align="center">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/muranowo/<REPO>/workflows/github-snake.gif" width="400"/>
 </p>

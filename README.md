@@ -7,7 +7,7 @@
 
 <!-- ===================== BIO ===================== -->
 <p align="center">
-  <em>A passionate web developer from Nepal 🚀, blending creativity and code to craft dynamic digital experiences.</em>
+  <em>A passionate web developer from Nepal , blending creativity and code to craft dynamic digital experiences.</em>
 </p>
 
 <!-- ===================== GITHUB STATS ===================== -->

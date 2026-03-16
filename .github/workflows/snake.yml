@@ -35,9 +35,6 @@ jobs:
     runs-on: ubuntu-latest
 
     timeout-minutes: 10
-
-
-
     steps:
 
       # Step 1: Checkout the repository
@@ -45,9 +42,6 @@ jobs:
       - name: Checkout Repository
 
         uses: actions/checkout@v3
-
-
-
       # Step 2: Generate the snake animations
 
       - name: Generate GitHub Contributions Snake Animations

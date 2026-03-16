@@ -28,6 +28,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Ensure output branch exists
+        run: |
+          git fetch origin output || git checkout -b output
+
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
